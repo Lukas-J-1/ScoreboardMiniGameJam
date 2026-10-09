@@ -72,3 +72,25 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.log
+/ScoreboardMiniJam/Saved/Autosaves
+/ScoreboardMiniJam/Saved/Config/CrashReportClient
+*.ref
+*.bin
+*.uasset
+*.ini
+/ScoreboardMiniJam/DerivedDataCache
+*.pth
+*.runtime-xml
+*.dmp
+*.list
+*.txt
+*.json
+*.json
+*.ush
+*.png
+ScoreboardMiniJam/Saved/AutoScreenshot.png
+ScoreboardMiniJam/Saved/AutoScreenshot.png
+ScoreboardMiniJam/Intermediate/PipInstall/merged_requirements.in
+ScoreboardMiniJam/Saved/UnrealBuildTool/BuildConfiguration.xml
+ScoreboardMiniJam/Intermediate/PipInstall/merged_requirements.in
